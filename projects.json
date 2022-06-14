@@ -1,0 +1,15 @@
+
+[
+    {
+      "name": "Bird Alert",
+      "live": "https://bird-alert.netlify.app/",
+      "git": "https://github.com/ldukles/birdAlert",
+      "image": "https://i.imgur.com/9LAibEH.png"
+    },
+    {
+      "name": "Smoked",
+      "live": "https://smoked-application.herokuapp.com",
+      "git": "https://github.com/ldukles/smoked_",
+      "image": "https://i.imgur.com/mt61yL8.png"
+    }
+  ]
