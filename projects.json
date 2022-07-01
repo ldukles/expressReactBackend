@@ -12,4 +12,10 @@
       "git": "https://github.com/ldukles/smoked_",
       "image": "https://i.imgur.com/mt61yL8.png"
     }
+    {
+      "name": "Applied",
+      "live": "https://appliedjobtracker.netlify.app",
+      "git": "https://github.com/ldukles/applied_frontend",
+      "image": "https://i.imgur.com/9idawp7.png"
+    }
   ]
